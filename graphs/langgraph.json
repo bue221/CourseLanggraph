@@ -1,0 +1,8 @@
+{
+  "dependencies": [".."],
+  "graphs": {
+    "form": "./form_graph.py:graph",
+    "test": "./test_form.py:graph"
+  },
+  "python": "3.11.6"
+}

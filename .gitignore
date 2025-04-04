@@ -7,3 +7,12 @@ app/node_modules
 # Python environments
 /venv
 /env
+
+.DS_Store
+pycache
+.pytest_cache
+
+# Pytest
+.pytest_cache
+
+.langgraph_api
